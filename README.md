@@ -23,7 +23,7 @@ Medium Link
 Assignment 3
 
 Colab link
-https://drive.google.com/file/d/1CpbNpGPwNa51757FXJMKysVc6wdtU1s4/view?usp=sharing
+https://colab.research.google.com/drive/1qUOPAnjzKh_unCWdJyDW4eW0JQ9MNtU-?usp=sharing
 
 Video link 
 
