@@ -14,6 +14,7 @@ Medium Link
 Assignment 2
 
 Colab link
+https://colab.research.google.com/drive/1isQvSN9nQ8MrSET-AXxHjojunWfw640r?usp=sharing
 
 Video link 
 
@@ -22,6 +23,7 @@ Medium Link
 Assignment 3
 
 Colab link
+https://drive.google.com/file/d/1CpbNpGPwNa51757FXJMKysVc6wdtU1s4/view?usp=sharing
 
 Video link 
 
