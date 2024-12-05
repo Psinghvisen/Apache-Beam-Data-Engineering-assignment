@@ -8,7 +8,7 @@ https://colab.research.google.com/drive/1kiFpMQSqEOCSt29EKCyhN3RLrxJ0BfL3?usp=sh
 
 Video link 
 
-Medium Link
+
 
 
 Assignment 2
@@ -18,7 +18,7 @@ https://colab.research.google.com/drive/1isQvSN9nQ8MrSET-AXxHjojunWfw640r?usp=sh
 
 Video link 
 
-Medium Link
+
 
 Assignment 3
 
@@ -27,4 +27,4 @@ https://colab.research.google.com/drive/1qUOPAnjzKh_unCWdJyDW4eW0JQ9MNtU-?usp=sh
 
 Video link 
 
-Medium Link
+
