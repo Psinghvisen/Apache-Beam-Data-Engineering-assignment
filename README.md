@@ -23,7 +23,8 @@ Video link
 Assignment 3
 
 Colab link
-https://colab.research.google.com/drive/1qUOPAnjzKh_unCWdJyDW4eW0JQ9MNtU-?usp=sharing
+
+https://colab.research.google.com/drive/1nZeOeCEV3DhNAhU_Fnn7GmimOgsT2N0W?usp=sharing
 
 Video link 
 
