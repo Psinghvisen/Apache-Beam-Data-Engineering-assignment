@@ -6,6 +6,10 @@ Colab link
 
 https://colab.research.google.com/drive/1kiFpMQSqEOCSt29EKCyhN3RLrxJ0BfL3?usp=sharing
 
+Video description link:
+
+https://youtu.be/1gBNxHHKzXA
+
 
 
 
