@@ -34,6 +34,10 @@ Colab link
 
 https://colab.research.google.com/drive/1nZeOeCEV3DhNAhU_Fnn7GmimOgsT2N0W?usp=sharing
 
+Video description link
+
+https://youtu.be/xwtPZii98Oc
+
 
 
 
