@@ -20,6 +20,10 @@ Assignment 2
 Colab link
 https://colab.research.google.com/drive/1isQvSN9nQ8MrSET-AXxHjojunWfw640r?usp=sharing
 
+Video description link:
+
+https://youtu.be/BlZD-zO7Fk4
+
 
 
 
